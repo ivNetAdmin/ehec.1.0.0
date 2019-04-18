@@ -1,0 +1,39 @@
+{
+  "name": "ehec.1.0.0",
+  "version": "1.0.0",
+  "description": "Elective Home Education Consultancy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivNetAdmin/ehec.1.0.0.git"
+  },
+  "author": "ivnet.co.uk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivNetAdmin/ehec.1.0.0/issues"
+  },
+  "homepage": "https://github.com/ivNetAdmin/ehec.1.0.0#readme",
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.8.1",
+    "autoprefixer": "^9.4.9",
+    "browser-sync": "^2.26.3",
+    "cssnano": "^4.1.10",
+    "del": "^3.0.0",
+    "gulp": "^4.0.0",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-minify": "^3.1.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.11.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.2.1",
+    "gulp-htmlmin": "^5.0.1",
+    "jquery": "^3.3.1",
+    "typeface-poppins": "0.0.72",
+    "universal-parallax": "^1.3.2"
+  }
+}
