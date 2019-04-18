@@ -24,19 +24,21 @@
 	width: 100%;
 }
 
-// .container--home {
-// 	height: 100vh;
-// }
+.container--home {
+	height: 70vh;
+}
 
 .container .content {
-	background: rgba(0, 0, 0, .75);
-	border-radius: 8px;
-	color: #fff;
-	margin: 0 auto;
+	background: $content-background;
+	h2{
+		color: $h2-color;
+	}
+	border-radius: 8px;	
+	margin: 100px auto;
 	padding: 30px 35px;
 	text-align: center;
 }
 
-//  .bg-home {
-//     background-image: url(../assets/images/img_parallax_home.jpg);
-//  }
+ .bg-home {
+    background-image: url(../assets/images/img_parallax_home.jpg);
+ }

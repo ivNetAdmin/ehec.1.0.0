@@ -1,6 +1,8 @@
 @import "variables";
 @import "parallax";
+@import "navigation";
 
 body{
    font-family: 'OpenSans Regular', sans-serif;
+   color: $default-font-color;
  }
